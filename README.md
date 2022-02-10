@@ -5,7 +5,7 @@ Consider the match data of the football world championships from 1872 to 2020 av
 
 In this project I used diffrent python libraries to:
 
-    -  Calculate the total goals scored and conceded by the choosen team in FIFA World Cup.
+    - Calculate the total goals scored and conceded by the choosen team in FIFA World Cup.
     
     - Calculate times the choosen team won/lost in FIFA World Cup
     
